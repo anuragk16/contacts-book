@@ -20,7 +20,7 @@ This program have the following functions:-
 ## License
 (c) Anurag kumawat
 
-Licensed under the (MIT License)
+Licensed under the [MIT License](https://github.com/anuragk16/contacts-book/blob/main/LICENSE.txt)
 
 
 
