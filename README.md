@@ -26,10 +26,10 @@ Licensed under the [MIT License](https://github.com/anuragk16/contacts-book/blob
 
 
 ## 🔗 Links :-
-![11](https://user-images.githubusercontent.com/90235816/190912506-0c699c89-d720-4df9-ae81-1851137a7bd8.PNG)
+
 [![Youtube](https://www.youtube.com/channel/UCKO4nOXb1ZpmuR8br5fJWBQ)]
 
-![13](https://user-images.githubusercontent.com/90235816/190912575-08e6d0dd-4bde-4973-894a-673fa18e2da0.png)
+
 [![quora](https://www.quora.com/profile/Anurag-Kumawat-37)]
 
 
