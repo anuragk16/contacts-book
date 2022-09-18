@@ -14,7 +14,8 @@ This program have the following functions:-
 
 ## Screenshots :-
 
-![App Screenshot]((https://user-images.githubusercontent.com/90235816/190911505-a970b6a1-fd87-4f24-b9bd-50f4af09350e.PNG))
+App Screenshot:-
+![git]((https://user-images.githubusercontent.com/90235816/190911505-a970b6a1-fd87-4f24-b9bd-50f4af09350e.PNG))
 
 
 ## License
@@ -29,4 +30,4 @@ Licensed under the [MIT License](https://github.com/anuragk16/contacts-book/blob
 [![quora](![13](https://user-images.githubusercontent.com/90235816/190911561-7e3cf345-e113-4339-9818-e7c8f50fb49f.png))](https://www.quora.com/profile/Anurag-Kumawat-37)
 
 
-![git](https://user-images.githubusercontent.com/90235816/190912381-630d13ff-edcb-4b8b-8102-924290cbbcbf.PNG)
+
