@@ -15,7 +15,7 @@ This program have the following functions:-
 ## Screenshots :-
 
 App Screenshot:-
-![git]((https://user-images.githubusercontent.com/90235816/190911505-a970b6a1-fd87-4f24-b9bd-50f4af09350e.PNG))
+![git](https://user-images.githubusercontent.com/90235816/190912478-737a0660-13db-44f3-8271-6f66d90950a2.PNG)
 
 
 ## License
