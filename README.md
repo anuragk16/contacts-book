@@ -14,7 +14,7 @@ This program have the following functions:-
 
 ## Screenshots :-
 
-![App Screenshot](https://lh3.googleusercontent.com/I-y7tdjEbt3C003c-IyxNWzhGDRpaIe5tkFh-A7u41D3cjJy_jvrQ8kqEKxn-qVyYkwzrQ=s170)
+![App Screenshot](![git](https://user-images.githubusercontent.com/90235816/190911505-a970b6a1-fd87-4f24-b9bd-50f4af09350e.PNG))
 
 
 ## License
@@ -25,7 +25,7 @@ Licensed under the [MIT License](https://github.com/anuragk16/contacts-book/blob
 
 
 ## 🔗 Links :-
-[![Youtube](https://lh3.googleusercontent.com/BEPUXwNZHKeGwTB5LhOBiYqhxhJ1GhggEso59uU7epPOERBgViIs-FINPYhV2Rn9wIfO=s108)](https://www.youtube.com/channel/UCKO4nOXb1ZpmuR8br5fJWBQ)
-[![quora](https://lh3.googleusercontent.com/94cVX5Ym4Hmgwb9-oxSLeZZYDsW0fM6hjujFsEu1Y-WmnG0sOkVkYAY6WmxtT90bv44V9So=s150)](https://www.quora.com/profile/Anurag-Kumawat-37)
+[![Youtube](![11](https://user-images.githubusercontent.com/90235816/190911551-b6cc85af-8cc5-4a8f-8a60-c9eaa9a67eea.PNG))](https://www.youtube.com/channel/UCKO4nOXb1ZpmuR8br5fJWBQ)
+[![quora](![13](https://user-images.githubusercontent.com/90235816/190911561-7e3cf345-e113-4339-9818-e7c8f50fb49f.png))](https://www.quora.com/profile/Anurag-Kumawat-37)
 
 
